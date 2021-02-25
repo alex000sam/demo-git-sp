@@ -5,3 +5,4 @@ notas.txt
 target/
 
 .DS_Store
+src/main/java/com/cmaccusco/primerproyecto/repositorio/RepositorioSaludo.java
